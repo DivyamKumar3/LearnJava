@@ -1,6 +1,4 @@
-package lambda.MethodReferences;
-
-import java.sql.SQLOutput;
+package lambda.MethodReferencesToStaticMethods;
 
 public class MethodRefDemo {
 
