@@ -1,8 +1,8 @@
-package lambda.MethodReferencesToStaticMethods;
+package lambda.MethodReferences;
 
 public class MyStringOps {
 
-    static String strReverse (String str)
+    static String strReverse(String str)
     {
         String result = "";
         int i;
