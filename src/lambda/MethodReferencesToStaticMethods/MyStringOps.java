@@ -1,4 +1,4 @@
-package lambda.MethodReferences;
+package lambda.MethodReferencesToStaticMethods;
 
 public class MyStringOps {
 
