@@ -1,4 +1,4 @@
-package lambda;
+package lambda.BlockLambdaExpressions;
 public class BlockLambdaDemo {
 
     public static void main (String arg[]){
